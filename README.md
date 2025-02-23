@@ -1,6 +1,6 @@
 ### Suave?
 
-![MiguelW GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelW77&show_icons=true&theme=dark)
+
 
 ## Tecnologias em aprendizado :
 
