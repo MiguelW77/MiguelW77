@@ -10,5 +10,5 @@
 
 </div> <br/>
 
-### “Fé em Deus que Ele é Justo”
+
 
