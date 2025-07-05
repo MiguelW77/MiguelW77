@@ -7,6 +7,7 @@
 ###
 
 <h2 align="left">About me</h2>
+<p align="left">I am currently studying systems development at Senai</p>
 
 ###
 
