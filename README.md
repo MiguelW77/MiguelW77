@@ -1,6 +1,6 @@
-<svg width="100%" height="120" viewBox="0 0 100 100" preserveAspectRatio="none">
-  <path d="M0,30 Q50,0 100,30 L100,100 L0,100 Z" fill="#cccccc" />
-</svg>
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=100&section=header"/>
+</p>
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
@@ -28,7 +28,6 @@
 
 ###
 ![MiguelW77's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelW77&theme=prussian&show_icons=true&hide_border=true&layout=compact)
-
-<svg width="100%" height="120" viewBox="0 0 100 100" preserveAspectRatio="none">
-  <path d="M0,70 Q50,100 100,70 L100,0 L0,0 Z" fill="#cccccc" />
-</svg>
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=100&section=footer"/>
+</p>
