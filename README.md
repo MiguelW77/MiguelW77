@@ -2,18 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=100&section=header"/>
 </p>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=CCCCCC&width=435&lines=Hello!;" alt="Typing SVG" />
 
 ###
-
-<p align="left">My name is Miguel and I'm a Systems Developer, from Brazil</p>
-
-###
-
-<h2 align="left">About me</h2>
-<p align="left">I am currently studying systems development at Senai</p>
-
-###
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=CCCCCC&width=435&lines=My+name+is+Miguel,+I+am+a+systems+developer+from+Brazil.;" alt="Typing SVG">
+</p>
 
 ###
 
