@@ -23,6 +23,4 @@
 ###
 
 ###
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelw77&show_icons=true&locale=en&layout=compact" alt="miguelw77" /></p>
-
+![MiguelW77's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelW77&theme=prussian&show_icons=true&hide_border=true&layout=compact)
