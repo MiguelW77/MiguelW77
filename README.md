@@ -1,6 +1,4 @@
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=75&section=header"/>
-</p>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=CCCCCC&width=390&lines=Hello!;" alt="Typing SVG" />
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=CCCCCC&width=390&lines=My+name+is+Miguel,+I+am+a+systems+developer+from+Brazil.;" alt="Typing SVG">
